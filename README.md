@@ -178,9 +178,6 @@ So our example highlights exactly what the prototype chain is. An object checks 
 
 ## Summary (3 minute / 0:15)
 
-- Demonstrate the use case that explains prototypal inheritance
-- Demonstrate what kind of flexibility prototypal inheritance gives programmers.
-
 So to conclude, this is only one form of prototypal inheritance. Other forms include functional inheritance (or factory functions), and concatenative inheritance (also known as mixins) which also use Object.assign.
 
 And lastly, prototypal inheritance shows how modular JavaScript can be. Look how easier our new example was in terms of using other objects' properties in our own to make our accord object? If we wrap this in a function (also called a factory function) we can start pumping out objects like cake!
@@ -191,7 +188,7 @@ And lastly, prototypal inheritance shows how modular JavaScript can be. Look how
 
 - [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - [ES6 Classes and Javascript Prototypes](https://reinteractive.com/posts/235-es6-classes-and-javascript-prototypes)
-- [Master the Javascript Interview: What's the Difference Between Class & Prototypical Inheritance](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.uzl8ohf8c)
+- [Master the Javascript Interview: What's the Difference Between Class & Prototypal Inheritance](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.uzl8ohf8c)
 
 ```
 
